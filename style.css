@@ -1,5 +1,27 @@
 /* author: ADAM PATRICK */
 
-.container{
-    
+#container {
+    height: 960px;
+    width: 960px;
+    margin: auto;
+    border: 2px solid red;
+}
+
+#header {
+    text-align: center;
+}
+
+button {
+    height: 2em;
+    width: 10em;
+    margin-bottom: 2em;
+}
+
+.block {
+    height: 10px;
+    width: 10px;
+}
+
+.hoveredOver {
+
 }
