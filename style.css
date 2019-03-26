@@ -1,10 +1,11 @@
 /* author: ADAM PATRICK */
 
 #container {
-    height: 960px;
-    width: 960px;
     margin: auto;
     border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 #header {
@@ -20,8 +21,10 @@ button {
 .block {
     height: 10px;
     width: 10px;
+    background-color: green;
+    margin: 0;
 }
 
-.hoveredOver {
-
+.hoveredOver{
+    background-color: black;
 }
