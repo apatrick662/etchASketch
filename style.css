@@ -15,7 +15,7 @@
 button {
     height: 2em;
     width: 10em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 .block {
@@ -23,4 +23,12 @@ button {
     width: 10px;
     background-color: lightgrey;
     margin: 0;
+}
+
+#color-select{
+    margin: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-top: 5px;
 }
