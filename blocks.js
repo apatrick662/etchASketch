@@ -18,35 +18,6 @@ for (i = 0; i < Math.pow(16, 2); i++){
 }
 
 function changeColor() {
-    // switch(color.value){
-    //     case "black":
-    //         this.style.backgroundColor = "black";
-    //         break;
-    //     case "gray":
-    //         this.style.backgroundColor = "dimgray";
-    //         break;
-    //     case "red":
-    //         this.style.backgroundColor = "red";
-    //         break;
-    //     case "blue":
-    //         this.style.backgroundColor = "blue";
-    //         break;
-    //     case "green":
-    //         this.style.backgroundColor = "green";
-    //         break;
-    //     case "yellow":
-    //         this.style.backgroundColor = "yellow";
-    //         break;
-    //     case "orange":
-    //         this.style.backgroundColor = "orange";
-    //         break;
-    //     case "purple":
-    //         this.style.backgroundColor = "darkviolet";
-    //         break;
-    //     case "pink":
-    //         this.style.backgroundColor = "deeppink";
-    //         break;
-    // }
 
     var etchColor = color.value;
     this.style.backgroundColor = etchColor;
