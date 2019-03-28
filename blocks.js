@@ -2,6 +2,7 @@ var container = document.getElementById("container");
 var button = document.getElementById("reset");
 var color = document.getElementById("color-select");
 var blocks = document.getElementsByClassName("block");
+var mouse = document.getElementById("mouse-select");
 
 var grid = [];
 container.style.height = "160px";

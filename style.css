@@ -25,7 +25,7 @@ button {
     margin: 0;
 }
 
-#color-select{
+.dropdown{
     margin: 25px;
     padding-left: 15px;
     padding-right: 15px;
